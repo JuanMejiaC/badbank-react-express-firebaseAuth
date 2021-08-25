@@ -1,5 +1,7 @@
 # BadBank MERN stack
-
+<img src="https://github.com/JuanMejiaC/badbank-react-express-firebaseAuth/blob/main/loging.jpg" width="500">
+<img src="https://github.com/JuanMejiaC/badbank-react-express-firebaseAuth/blob/main/logged-in.jpg" width="500">
+<img src="https://github.com/JuanMejiaC/badbank-react-express-firebaseAuth/blob/main/balance.jpg" width="500">
 
 
 ## Description

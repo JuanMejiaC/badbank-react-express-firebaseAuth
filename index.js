@@ -6,7 +6,6 @@ var cors    = require('cors');
 var dal     = require('./dal.js');
 const e = require('express');
 
-// var serviceAccount = require("./serviceAccountKey.json");
 
 admin.initializeApp({
     credential: admin.credential.cert("./serviceAccountKey.json"),
